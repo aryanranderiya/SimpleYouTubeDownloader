@@ -1,7 +1,3 @@
-Here's a README.md for your script:
-
----
-
 # YouTube Downloader
 
 This script allows you to download either single YouTube videos or entire playlists.
